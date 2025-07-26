@@ -2206,9 +2206,11 @@ small {
   font-size: 60%; }
 
 a {
-  color: #378C3F; }
+  color: #ffffff; }
+  
   a:hover, a:focus {
-    color: #378C3F; }
+    color: #ffffff;
+  text-decoration: none; }
 
 h1, .h1 {
   font-size: 3.5em;
